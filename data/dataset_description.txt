@@ -1,0 +1,1 @@
+Northstar logistics dataset containing operational delivery, customer, complaint, vehicle, and driver information for analytical processing and NoSQL database implementation.
